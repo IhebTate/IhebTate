@@ -26,7 +26,7 @@
 
 
 ```zsh
-> neofetch
+> winfetch
 ```
 
 <img align="left" src="https://raw.githubusercontent.com/appIications/appIications/main/assets/windows.png" alt="logo.png" width="200" /> 

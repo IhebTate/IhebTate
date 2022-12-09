@@ -14,7 +14,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-5/225686914529886209.png">
+  <img src="https://discord.c99.nl/widget/theme-4/225686914529886209.png">
   <br><br>
   <img src="https://64.media.tumblr.com/e7d02ffe743d5b81b272073eb4ccd3a7/9c771f6a24c16828-a1/s400x600/248e99bffd0a8ed81e64870d648d3d013ac5392d.gifv", width="260"/>
   <br>
@@ -22,7 +22,7 @@
 </p>
 
 <!--<a href="link" style="text-align: center">
-<!--<img src="https://discord.c99.nl/widget/theme-5/225686914529886209.png" align="center"></a> -->
+<!--<img src="https://discord.c99.nl/widget/theme-4/225686914529886209.png" align="center"></a> -->
 
 
 ```zsh
